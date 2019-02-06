@@ -12,25 +12,25 @@ namespace SoundTest
         {
             if (!stretched)
             {
-                Do1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\default\do1.wav";
-                Re1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\default\re1.wav";
-                Mi1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\default\mi1.wav";
-                Fa1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\default\fa1.wav";
-                Sol1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\default\sol1.wav";
-                La1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\default\la1.wav";
-                Si1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\default\si1.wav";
-                Do2 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\default\do2.wav";
+                Do1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\default\do1.wav";
+                Re1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\default\re1.wav";
+                Mi1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\default\mi1.wav";
+                Fa1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\default\fa1.wav";
+                Sol1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\default\sol1.wav";
+                La1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\default\la1.wav";
+                Si1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\default\si1.wav";
+                Do2 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\default\do2.wav";
             }
             else
             {
-                Do1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\stretched\do1.wav";
-                Re1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\stretched\re1.wav";
-                Mi1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\stretched\mi1.wav";
-                Fa1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\stretched\fa1.wav";
-                Sol1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\stretched\sol1.wav";
-                La1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\stretched\la1.wav";
-                Si1 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\stretched\si1.wav";
-                Do2 = @"D:\GitHub\SoundTest\SoundTest\SoundTest\musicalnote\stretched\do2.wav";
+                Do1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\stretched\do1.wav";
+                Re1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\stretched\re1.wav";
+                Mi1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\stretched\mi1.wav";
+                Fa1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\stretched\fa1.wav";
+                Sol1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\stretched\sol1.wav";
+                La1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\stretched\la1.wav";
+                Si1 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\stretched\si1.wav";
+                Do2 = @"D:\GitHub\SoundTest\SoundTest\musicalnote\stretched\do2.wav";
             }
         }
 
