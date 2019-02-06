@@ -9,7 +9,6 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WMPLib;
 
 namespace SoundTest
 {
@@ -93,34 +92,42 @@ namespace SoundTest
         {
             if (e.KeyChar == (char)Keys.A || e.KeyChar == 'a')
             {
+                btnDo.Focus();
                 btnDo.PerformClick();
             }
             else if (e.KeyChar == (char)Keys.S || e.KeyChar == 's')
             {
+                btnRe.Focus();
                 btnRe.PerformClick();
             }
             else if (e.KeyChar == (char)Keys.D || e.KeyChar == 'd')
             {
+                btnMi.Focus();
                 btnMi.PerformClick();
             }
             else if (e.KeyChar == (char)Keys.F || e.KeyChar == 'f')
             {
+                btnFa.Focus();
                 btnFa.PerformClick();
             }
             else if (e.KeyChar == (char)Keys.G || e.KeyChar == 'g')
             {
+                btnSol.Focus();
                 btnSol.PerformClick();
             }
             else if (e.KeyChar == (char)Keys.H || e.KeyChar == 'h')
             {
+                btnLa.Focus();
                 btnLa.PerformClick();
             }
             else if (e.KeyChar == (char)Keys.J || e.KeyChar == 'j')
             {
+                btnSi.Focus();
                 btnSi.PerformClick();
             }
             else if (e.KeyChar == (char)Keys.K || e.KeyChar == 'k')
             {
+                btnDo_Octave.Focus();
                 btnDo_Octave.PerformClick();
             }
         }
